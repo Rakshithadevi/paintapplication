@@ -151,7 +151,8 @@ function myClickEvent(e){
 ## OUTPUT:
 
 ---
-![output]C:\Users\raksh\Downloads\paintapplication\painting.png
+![image](https://user-images.githubusercontent.com/94165326/150676147-ee9c75c0-58f5-4300-bd29-5589697984b9.png)
+
 ---
 
 ## Result:
