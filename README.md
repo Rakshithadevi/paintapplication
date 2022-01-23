@@ -150,9 +150,9 @@ function myClickEvent(e){
 
 ## OUTPUT:
 
--- 
+---
 ![output]C:\Users\raksh\Downloads\paintapplication\painting.png
- ---
+---
 
 ## Result:
 
